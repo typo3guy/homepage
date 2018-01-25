@@ -80,7 +80,7 @@ return [
         'devIPmask' => '',
         'displayErrors' => 0,
         'enableDeprecationLog' => false,
-        'encryptionKey' => 'fafc6964227a983001e2c7ba017e9d5e9bfeb768b737d02ec2ca0d3dff18e26ebece3681be26716279b4fb42a48ae14e',
+        'encryptionKey' => 'abc',
         'exceptionalErrors' => 20480,
         'isInitialDatabaseImportDone' => true,
         'isInitialInstallationInProgress' => false,
